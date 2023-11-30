@@ -19,9 +19,10 @@ Ceci est une application SpringBoot qui utilise MySQL et Angular pour gérer les
 
 ## Base de Données MySQL  🛢️
 
-![Base de Données MySQL](https://github.com/SAMIHA88/RMI_Gestion_Machines/assets/81178741/d7bdadfb-e3a7-45b5-9033-e7951a03bf91)
+![Base de Données MySQL](https://github.com/SAMIHA88/SmartHouse_SpringBoot_Angular/issues/1#issue-2018882260)
 
 ## <span id="captures-ecran">Captures d'écran :clapper: </span>
+
 
 Regardez une démonstration de l'application :
 
