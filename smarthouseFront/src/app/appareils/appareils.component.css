@@ -1,0 +1,41 @@
+.text-custom {
+    color: #0F457A; 
+  }
+  /* Ajoutez ces styles pour personnaliser l'apparence des boutons */
+
+.green-button {
+  background-color: green;
+  color: white; /* Texte en blanc pour contraster avec le fond vert */
+  padding: 10px 20px; /* Ajustez la marge intérieure selon vos préférences */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.red-button {
+  background-color: red;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+/* Styles pour le bouton "on" */
+.on-button {
+  background-color: green;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Styles pour le bouton "off" */
+.off-button {
+  background-color: red;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}

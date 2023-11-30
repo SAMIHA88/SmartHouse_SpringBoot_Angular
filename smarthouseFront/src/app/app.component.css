@@ -1,0 +1,6 @@
+.full-screen-image {
+  width: 100%;
+  border-radius: 10%;
+  height: 80vh; 
+  object-fit: cover; 
+}
