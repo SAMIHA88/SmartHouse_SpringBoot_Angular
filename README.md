@@ -9,9 +9,6 @@ Ceci est une application SpringBoot qui utilise MySQL et Angular pour gérer les
 - [Captures d'écran](#captures-ecran)
 
 ## <span id="technologies-utilisées">Technologies Utilisées 🔧</span>
-
-
-
 - **Spring Boot**: Spring Boot est un framework Java qui simplifie le développement d'applications basées sur Spring en fournissant des configurations par défaut et des conventions de codage, permettant ainsi aux développeurs de se concentrer davantage sur la logique métier.
 
 - **MySQL**: MySQL est un système de gestion de base de données relationnelle open source, souvent utilisé dans le contexte du développement d'applications web pour stocker et récupérer des données de manière efficace.
@@ -21,11 +18,18 @@ Ceci est une application SpringBoot qui utilise MySQL et Angular pour gérer les
 ## Base de Données MySQL  🛢️
 ![Base de Données MySQL](https://github.com/SAMIHA88/SmartHouse_SpringBoot_Angular/issues/1#issue-2018882260)
 
-
 ## <span id="captures-ecran">Captures d'écran :clapper: </span>
-
-
-Regardez une démonstration de l'application :
-
-[![Vidéo de Démonstration](https://github.com/SAMIHA88/RMI_Gestion_Machines/blob/main/assets/81178741/bbc788c6-bdee-4be5-98b4-195dc031ba3f.png)](https://github.com/SAMIHA88/RMI_Gestion_Machines/assets/81178741/bbc788c6-bdee-4be5-98b4-195dc031ba3f)
-
+* Si on accède au lien localhost:4200
+* Si on clique sur "Appareils" dans la NAVBAR
+* On rempli le formulaire pour effectuer l'ajout d'un appareil
+On constate l'ajout de l'appareil
+* Avant la suppression de l'appareil
+* Aprés la suppression de l'appareil
+* Si on clique sur "Catégories" dans la NAVBAR
+* Avant la modification
+* Modification de la catégorie
+* Aprés la modification
+* Suppression de la catégorie
+* Samsung allumée (ang1)
+* Aprés le clique sur le On elle devient off (ang2)
+  
