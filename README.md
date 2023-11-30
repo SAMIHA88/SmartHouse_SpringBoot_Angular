@@ -12,14 +12,15 @@ Ceci est une application SpringBoot qui utilise MySQL et Angular pour gérer les
 
 
 
-- **Java Swing**: Java Swing est une bibliothèque graphique pour la création d'interfaces utilisateur (UI) en Java.
-- **MySQL**: MySQL est un système de gestion de base de données relationnelle open source.
-- **RMI (Remote Method Invocation)**: RMI est une technologie Java qui permet à des objets Java situés sur une machine virtuelle Java (JVM) d'appeler des méthodes sur des objets Java distants.
+- **Spring Boot**: Spring Boot est un framework Java qui simplifie le développement d'applications basées sur Spring en fournissant des configurations par défaut et des conventions de codage, permettant ainsi aux développeurs de se concentrer davantage sur la logique métier.
 
+- **MySQL**: MySQL est un système de gestion de base de données relationnelle open source, souvent utilisé dans le contexte du développement d'applications web pour stocker et récupérer des données de manière efficace.
 
+- **Angular**: Angular est un framework open source développé par Google pour la création d'applications web dynamiques et interactives côté client. Il permet la création de Single Page Applications (SPA) en utilisant TypeScript pour le développement et en offrant une architecture modulaire.
+  
 ## Base de Données MySQL  🛢️
-
 ![Base de Données MySQL](https://github.com/SAMIHA88/SmartHouse_SpringBoot_Angular/issues/1#issue-2018882260)
+
 
 ## <span id="captures-ecran">Captures d'écran :clapper: </span>
 
